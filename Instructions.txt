@@ -1,0 +1,9 @@
+To run the code first input 
+The number of buildings
+Number of rooms
+Number of Courses
+Number of time limit
+which algorithm you want to use(0 for naive, 1 for simulated annealing
+2 for backtraking , 3 for minimal backtraking and 4 for maximum backtracking)
+Input the number for seed
+And the number for the temperature
